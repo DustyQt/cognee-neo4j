@@ -192,3 +192,12 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Cogenee generated files
+/DocumentChunk_text.lance
+/DocumentChunk_text.lance.index
+/EntityType_name.lance
+/Entity_name.lance
+/TextDocument_name.lance
+/TextSummary_text.lance
+/EdgeType_relationship_name.lance
